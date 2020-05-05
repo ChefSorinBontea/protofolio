@@ -1,0 +1,21 @@
+body{
+    background-color: mintcream;
+}
+
+header{
+    background-color: red;
+}
+
+header h1 
+{
+    color:white;
+    text-align: center;
+}
+
+header img
+{
+    border-radius: 250px;
+    width: 500;
+    align-content: center;
+    border: 20px solid black;
+}
